@@ -130,6 +130,9 @@ Gebruik deze tools om vette dingen te maken:
 * **[Animista](https://animista.net/)** - *Test animaties en kopieer de `@keyframes`.*
 * **[Cubic-Bezier](https://cubic-bezier.com/)** - *Maak je bewegingen soepel en professioneel.*
 
+### 🤯 Extreme Inspiratie (Pro Level)
+* **[A Single Div](https://a.singlediv.com/)** - *Kijk wat mogelijk is met maar 1 div (ter inspiratie).*
+
 ---
 
 ## 🆘 Help, mijn check faalt!
